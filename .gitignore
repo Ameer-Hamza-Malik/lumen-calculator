@@ -2,31 +2,3 @@ node_modules
 .env
 server/.env
 client/dist
-# Dependency directories
-node_modules/
-client/node_modules/
-server/node_modules/
-
-# Build outputs
-dist/
-client/dist/
-
-# Environment variables & secrets
-.env
-.env.local
-.env.*.local
-server/.env
-
-# IDE and OS files
-.DS_Store
-Thumbs.db
-.idea/
-.vscode/
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
-
-# Vercel deployment folder
-.vercel
