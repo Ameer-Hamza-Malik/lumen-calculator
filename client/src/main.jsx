@@ -98,7 +98,7 @@ function App() {
         <div className="tip"><span className="tip-icon">i</span><span><b>Quick tip</b><br />Use your keyboard for a faster flow.</span></div>
       </aside>
     </section>
-    <footer><span>BUILT FOR FOCUS</span><span className="footer-line" /><span>© LUMEN STUDIO</span></footer>
+    <footer className="side-footer"><span>BUILT FOR FOCUS</span><span>© LUMEN STUDIO</span></footer>
   </main>;
 }
 
